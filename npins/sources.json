@@ -31,10 +31,10 @@
         "owner": "criome",
         "repo": "make-atom"
       },
-      "branch": "main",
-      "revision": "de069dac600ce5952ad981c872222e20da6be1d0",
-      "url": "https://github.com/criome/make-atom/archive/de069dac600ce5952ad981c872222e20da6be1d0.tar.gz",
-      "hash": "0dn0ljr2iijxzhhb3j9jl2l72zy5r0w0imk858qs40h19g05w2pi"
+      "branch": "testing",
+      "revision": "627987cc1dd7b3a965ca765f1305a6e330450524",
+      "url": "https://github.com/criome/make-atom/archive/627987cc1dd7b3a965ca765f1305a6e330450524.tar.gz",
+      "hash": "0gf664hhp3kqjywz3rpf63fmwaibdbz548mhms162y86fbg83g42"
     },
     "nixpkgs": {
       "type": "Git",
