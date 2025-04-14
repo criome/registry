@@ -1,0 +1,65 @@
+{
+  "pins": {
+    "atom": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "LiGoldragon",
+        "repo": "atom"
+      },
+      "branch": "atomicFlake-v1",
+      "revision": "4ec32cb657b15f82a2646ab184ad53ed78c2aa11",
+      "url": "https://github.com/LiGoldragon/atom/archive/4ec32cb657b15f82a2646ab184ad53ed78c2aa11.tar.gz",
+      "hash": "17s7gjss0l6b2cpcghji7wbj1zx0limfi1jc2mgz0g7qwa9fc0yn"
+    },
+    "devenv-atom": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "criome",
+        "repo": "devenv-atom"
+      },
+      "branch": "main",
+      "revision": "d2d9d5d062264b96cf9ecae8743524e07431ac77",
+      "url": "https://github.com/criome/devenv-atom/archive/d2d9d5d062264b96cf9ecae8743524e07431ac77.tar.gz",
+      "hash": "04q6ms6g7v4yq66lrcn33chcvczp8dacqd221x072bg8k16nhx63"
+    },
+    "nixpkgs": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "NixOS",
+        "repo": "nixpkgs"
+      },
+      "branch": "master",
+      "revision": "d70bd19e0a38ad4790d3913bf08fcbfc9eeca507",
+      "url": "https://github.com/NixOS/nixpkgs/archive/d70bd19e0a38ad4790d3913bf08fcbfc9eeca507.tar.gz",
+      "hash": "1968wcqnb5gb947js0kv17hy15nc5817ra66nj33nc532d342ig0"
+    },
+    "nixpkgs.lib": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "nix-community",
+        "repo": "nixpkgs.lib"
+      },
+      "branch": "master",
+      "revision": "022a1e186f42079dba4f00376697158e068abd79",
+      "url": "https://github.com/nix-community/nixpkgs.lib/archive/022a1e186f42079dba4f00376697158e068abd79.tar.gz",
+      "hash": "1gxysmxnk0i5fpi1yw10x0mh2988xvmw10d9idrni79f5g0nrxg4"
+    },
+    "rust-atom": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "criome",
+        "repo": "rust-atom"
+      },
+      "branch": "main",
+      "revision": "50acc9ec1046e5d39a25a5f8750d4ebba820162e",
+      "url": "https://github.com/criome/rust-atom/archive/50acc9ec1046e5d39a25a5f8750d4ebba820162e.tar.gz",
+      "hash": "0q8qmimbs50js6gknbkk12ahnqpz68vw8598x32hss5s4rcqfskr"
+    }
+  },
+  "version": 3
+}
